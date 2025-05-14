@@ -1,6 +1,6 @@
 # Automated Business Tracker (Bike Flipping Spreadsheet)
 
-A Google Sheets-based project to organize and automate a local **bike flipping operation**. It helps track listings, manage service schedules by mileage, calculate profit margins, and log distances from your location (Antioch, CA).
+A Google Sheets-based project to organize and automate a local bike flipping operation. It helps track listings, manage service schedules by mileage, calculate profit margins, and log distances from your location.
 
 ## 🚲 Features
 - 🛠️ Tracks repair/service status per bike
